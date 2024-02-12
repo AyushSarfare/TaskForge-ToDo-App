@@ -1,4 +1,4 @@
-# TaskForge - To-Do App
+# TaskForge - ToDo App 📝
 
 TaskForge is a modern and sleek to-do app designed for efficient task management and productivity. It provides a clean and interactive interface for organizing your tasks, making it easy to stay on top of your to-do list.
 
